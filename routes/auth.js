@@ -270,6 +270,7 @@ const transporter = nodemailer.createTransport(sendgridTransport({
     api_key: SENDGRID_API
   }
 }))
+
 router.post("/signup", (req, res) => {
   const { name, email, password, country, organization, role, intro, pic } = req.body
   if (!email || !password || !name) {
