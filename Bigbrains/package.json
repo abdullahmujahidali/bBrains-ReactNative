@@ -26,7 +26,7 @@
     "react-native-input-outline": "^1.5.1",
     "react-native-pager-view": "^5.1.7",
     "react-native-paper": "^4.7.2",
-    "react-native-reanimated": "~1.13.0",
+    "react-native-reanimated": "~2.10.0",
     "react-native-safe-area-context": "3.1.9",
     "react-native-screens": "~2.15.2",
     "react-native-web": "^0.15.6"
